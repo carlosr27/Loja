@@ -1,0 +1,11 @@
+*~
+*.sqlite3
+*.idea
+*.pyc
+*.pyo
+__pycache__/
+media/
+CACHE/
+.sass-cache/
+*.css.map
+passenger_wsgi.py
